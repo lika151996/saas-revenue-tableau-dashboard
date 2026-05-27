@@ -39,7 +39,7 @@ The project also includes bonus visualizations such as:
 
 ## Tableau Public
 
-[Open Interactive Dashboard] (https://public.tableau.com/views/Anzhelika_Ivanova_Revenue_dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Open Interactive Dashboard](https://public.tableau.com/views/Anzhelika_Ivanova_Revenue_dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Tech Stack
 
