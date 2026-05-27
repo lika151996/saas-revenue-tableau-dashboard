@@ -35,7 +35,7 @@ The project also includes bonus visualizations such as:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/Tableau_dashboard.png)
+![Dashboard](Tableau_dashboard.png)
 
 ## Tableau Public
 
