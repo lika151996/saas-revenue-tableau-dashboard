@@ -35,11 +35,19 @@ The project also includes bonus visualizations such as:
 
 ## Dashboard Preview
 
-
+![Dashboard](screenshots/Tableau_dashboard.png)
 
 ## Tableau Public
 
-(Add your Tableau Public link here)
+[Open Interactive Dashboard] (https://public.tableau.com/views/Anzhelika_Ivanova_Revenue_dashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Tech Stack
+
+- Tableau Public
+- Data Visualization
+- Dashboard Design
+- Business Analytics
+
 
 ## Key Insights
 
